@@ -1,6 +1,6 @@
-# [![Coursera Course](./assets/banner.svg)](https://ds500.paiml.com/bootcamps/rust/ "Join the Bootcamp")
+[![Pragmatic AI Labs Course](./assets/banner.svg)](https://ds500.paiml.com/bootcamps/rust/ "Join the Bootcamp")
 
-This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
+This repository is part of the Rust Fundamentals course from Pragmatic AI Labs
 
 # Rust Fundamentals
 
